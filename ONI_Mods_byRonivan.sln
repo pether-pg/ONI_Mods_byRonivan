@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aromatics", "Aromatics\Arom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTiles", "CustomTiles\CustomTiles.csproj", "{F02D48DF-AD13-4C94-B423-EA109AE1FB2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoodenSetStructures", "WoodenSetStructures\WoodenSetStructures.csproj", "{ADC297F9-6908-4D11-8C05-6AD3B320346B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F02D48DF-AD13-4C94-B423-EA109AE1FB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F02D48DF-AD13-4C94-B423-EA109AE1FB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F02D48DF-AD13-4C94-B423-EA109AE1FB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC297F9-6908-4D11-8C05-6AD3B320346B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC297F9-6908-4D11-8C05-6AD3B320346B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC297F9-6908-4D11-8C05-6AD3B320346B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC297F9-6908-4D11-8C05-6AD3B320346B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

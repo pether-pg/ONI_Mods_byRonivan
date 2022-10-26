@@ -1,10 +1,6 @@
 ﻿using HarmonyLib;
-using KMod;
-using System.Collections.Generic;
-using UnityEngine;
-using System;
 
-namespace CustomTiles
+namespace WoodenSetStructures
 {
     class ModInfo : KMod.UserMod2
     {

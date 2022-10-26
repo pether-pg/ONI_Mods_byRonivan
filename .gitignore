@@ -71,3 +71,31 @@ lib/UnityEngine.UI.dll
 lib/UnityEngine.UIModule.dll
 lib/UnityEngine.UnityWebRequestModule.dll
 .vs/ONI_Mods_byRonivan/v16/.suo
+WoodenSetStructures/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+WoodenSetStructures/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+WoodenSetStructures/obj/Release/WoodenSetStructures.csproj.CopyComplete
+WoodenSetStructures/obj/Release/WoodenSetStructures.csproj.CoreCompileInputs.cache
+WoodenSetStructures/obj/Release/WoodenSetStructures.csproj.FileListAbsolute.txt
+WoodenSetStructures/obj/Release/WoodenSetStructures.csprojAssemblyReference.cache
+WoodenSetStructures/obj/Release/WoodenSetStructures.dll
+WoodenSetStructures/obj/Release/WoodenSetStructures.pdb
+WoodenSetStructures/.vs/Wooden Set - Structures/v15/.suo
+WoodenSetStructures/.vs/Wooden Set - Structures/v15/Server/sqlite3/db.lock
+WoodenSetStructures/.vs/Wooden Set - Structures/v15/Server/sqlite3/storage.ide
+WoodenSetStructures/.vs/Wooden Set - Structures/v15/Server/sqlite3/storage.ide-shm
+WoodenSetStructures/.vs/Wooden Set - Structures/v15/Server/sqlite3/storage.ide-wal
+WoodenSetStructures/bin/Release/0Harmony.dll
+WoodenSetStructures/bin/Release/Assembly-CSharp-firstpass.dll
+WoodenSetStructures/bin/Release/Assembly-CSharp.dll
+WoodenSetStructures/bin/Release/FMODUnity.dll
+WoodenSetStructures/bin/Release/Unity.TextMeshPro.dll
+WoodenSetStructures/bin/Release/UnityEngine.CoreModule.dll
+WoodenSetStructures/bin/Release/UnityEngine.dll
+WoodenSetStructures/bin/Release/UnityEngine.ImageConversionModule.dll
+WoodenSetStructures/bin/Release/UnityEngine.InputLegacyModule.dll
+WoodenSetStructures/bin/Release/UnityEngine.TextRenderingModule.dll
+WoodenSetStructures/bin/Release/UnityEngine.UI.dll
+WoodenSetStructures/bin/Release/UnityEngine.UIModule.dll
+WoodenSetStructures/bin/Release/UnityEngine.UnityWebRequestModule.dll
+WoodenSetStructures/bin/Release/WoodenSetStructures.dll
+WoodenSetStructures/bin/Release/WoodenSetStructures.pdb
