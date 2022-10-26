@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTiles", "CustomTiles\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoodenSetStructures", "WoodenSetStructures\WoodenSetStructures.csproj", "{ADC297F9-6908-4D11-8C05-6AD3B320346B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoodenSetFurniture", "WoodenSetFurniture\WoodenSetFurniture.csproj", "{75C8A0FC-C28E-4EAC-9F41-19A64E9C0CB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{ADC297F9-6908-4D11-8C05-6AD3B320346B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADC297F9-6908-4D11-8C05-6AD3B320346B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADC297F9-6908-4D11-8C05-6AD3B320346B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C8A0FC-C28E-4EAC-9F41-19A64E9C0CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C8A0FC-C28E-4EAC-9F41-19A64E9C0CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C8A0FC-C28E-4EAC-9F41-19A64E9C0CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C8A0FC-C28E-4EAC-9F41-19A64E9C0CB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
