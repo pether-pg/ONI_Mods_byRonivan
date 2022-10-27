@@ -1,0 +1,7 @@
+﻿Dupes Logistics
+Mod Version: 1.0.0
+Base Game
+DLC1: Spaced Out
+Harmony: 2.0.4.0
+
+All side notes goes here ------------------
