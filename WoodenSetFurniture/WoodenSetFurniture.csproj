@@ -81,26 +81,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BeanBagConfig.cs" />
-    <Compile Include="Buldings_Patch.cs" />
-    <Compile Include="CozyBedConfig.cs" />
-    <Compile Include="CozyChairConfig.cs" />
+    <Compile Include="BasicModUtils.cs" />
+    <Compile Include="Buildings\WoodenShelfConfig.cs" />
+    <Compile Include="Buildings\KitchenHoodConfig.cs" />
+    <Compile Include="STRINGS.cs" />
+    <Compile Include="Patches\WoodenSetFurniture_Patches_Buldings.cs" />
+    <Compile Include="Buildings\CozyBedConfig.cs" />
+    <Compile Include="Buildings\CozyChairConfig.cs" />
+    <Compile Include="FUI_SideScreen.cs" />
     <Compile Include="ModInfo.cs" />
-    <Compile Include="SimpleFireplaceConfig.cs" />
-    <Compile Include="WoodenBedConfig.cs" />
+    <Compile Include="SelectableSign.cs" />
+    <Compile Include="SignSideScreen.cs" />
+    <Compile Include="Buildings\SimpleFireplaceConfig.cs" />
+    <Compile Include="Buildings\WoodenBedConfig.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WoodenPedestalConfig.cs" />
-    <Compile Include="WoodenTableA_Config.cs" />
-    <Compile Include="WoodenTableB_Config.cs" />
-    <Compile Include="WoodenTableC_Config.cs" />
+    <Compile Include="Buildings\WoodenPedestalConfig.cs" />
+    <Compile Include="Buildings\WoodenTableConfig.cs" />
+    <Compile Include="Patches\WoodenSetFurniture_Patches_DetailScreen.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="anim\assets\wooden_pedestal\" />
-    <Folder Include="anim\assets\wooden_toilet\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="DLC Version.txt" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>IF exist "C:\Users\pawel\Documents\Klei\OxygenNotIncluded\mods\Dev\$(TargetName)" ( echo Mod Dir exists ) ELSE  ( mkdir "C:\Users\pawel\Documents\Klei\OxygenNotIncluded\mods\Dev\$(TargetName)" &amp;&amp; echo Mod Dir created)

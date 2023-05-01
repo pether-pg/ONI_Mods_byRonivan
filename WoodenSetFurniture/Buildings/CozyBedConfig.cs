@@ -1,11 +1,11 @@
-﻿using TUNING;
-using UnityEngine;
+﻿using UnityEngine;
+using TUNING;
 
 namespace WoodenSetFurniture
 {
-    public class WoodenBedConfig : IBuildingConfig
+    public class CozyBedConfig : IBuildingConfig
     {
-        public static string ID = "WoodenBed";
+        public static string ID = "CozyBed";
 
         public override void ConfigureBuildingTemplate(GameObject go, Tag prefab_tag)
         {
@@ -16,11 +16,11 @@ namespace WoodenSetFurniture
 
         public override BuildingDef CreateBuildingDef()
         {
-            float[] singleArray1 = new float[] { 50f, 400f, 10 };
+            float[] singleArray1 = new float[] { 120f, 200f, 40 };
             string[] textArray1 = new string[] { "RefinedMetal", "BuildingWood", "BuildingFiber" };
 
-            EffectorValues nONE = NOISE_POLLUTION.NONE;
-            BuildingDef def1 = BuildingTemplates.CreateBuildingDef(ID, 4, 2, "wooden_bed_kanim", 10, 10f, singleArray1, textArray1, 1600f, BuildLocationRule.OnFloor, BUILDINGS.DECOR.BONUS.TIER2, nONE, 0.3f);
+            EffectorValues none = NOISE_POLLUTION.NONE;
+            BuildingDef def1 = BuildingTemplates.CreateBuildingDef(ID, 4, 2, "cozy_bed_kanim", 10, 10f, singleArray1, textArray1, 1600f, BuildLocationRule.OnFloor, BUILDINGS.DECOR.BONUS.TIER2, none, 0.3f);
             def1.Overheatable = false;
             def1.AudioCategory = "Metal";
             return def1;
@@ -38,6 +38,4 @@ namespace WoodenSetFurniture
             go.AddOrGet<Ownable>().slotID = Db.Get().AssignableSlots.Bed.Id;
         }
     }
-
-
 }

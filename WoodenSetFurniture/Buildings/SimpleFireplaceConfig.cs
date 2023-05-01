@@ -7,6 +7,19 @@ namespace WoodenSetFurniture
     {
         public const string ID = "SimpleFireplace";
 
+        public override BuildingDef CreateBuildingDef()
+        {
+            EffectorValues noise = NOISE_POLLUTION.NONE;
+            BuildingDef def1 = BuildingTemplates.CreateBuildingDef(ID, 2, 3, "simple_fireplace_kanim", 30, 90f, BUILDINGS.CONSTRUCTION_MASS_KG.TIER5, MATERIALS.RAW_MINERALS, 1600f, BuildLocationRule.OnFloor, BUILDINGS.DECOR.BONUS.TIER0, noise, 0.6f);
+            def1.ThermalConductivity = 9.4f;
+            def1.ExhaustKilowattsWhenActive = 18f;
+            def1.SelfHeatKilowattsWhenActive = 6f;
+            def1.LogicInputPorts = LogicOperationalController.CreateSingleInputPortList(new CellOffset(0, 0));
+            def1.ViewMode = OverlayModes.Power.ID;
+            def1.AudioCategory = "HollowMetal";
+            return def1;
+        }
+
         public override void ConfigureBuildingTemplate(GameObject go, Tag prefab_tag)
         {
             go.AddOrGet<LoopingSounds>();
@@ -42,19 +55,6 @@ namespace WoodenSetFurniture
             local3.isRequired = true;
 
             Prioritizable.AddRef(go);
-        }
-
-        public override BuildingDef CreateBuildingDef()
-        {
-            EffectorValues noise = NOISE_POLLUTION.NONE;
-            BuildingDef def1 = BuildingTemplates.CreateBuildingDef(ID, 2, 3, "simple_fireplace_kanim", 30, 90f, BUILDINGS.CONSTRUCTION_MASS_KG.TIER5, MATERIALS.RAW_MINERALS, 1600f, BuildLocationRule.OnFloor, BUILDINGS.DECOR.BONUS.TIER0, noise, 0.6f);
-            def1.ThermalConductivity = 9.4f;
-            def1.ExhaustKilowattsWhenActive = 18f;
-            def1.SelfHeatKilowattsWhenActive = 6f;
-            def1.LogicInputPorts = LogicOperationalController.CreateSingleInputPortList(new CellOffset(0, 0));
-            def1.ViewMode = OverlayModes.Power.ID;
-            def1.AudioCategory = "HollowMetal";
-            return def1;
         }
 
         public override void DoPostConfigureComplete(GameObject go)
