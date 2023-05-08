@@ -67,10 +67,9 @@ namespace WoodenSetFurniture
             if (gameObject.TryGetComponent(out KButton button))
             {
                 button.onClick += onClick;
-                button.fgImage.sprite = Def.GetUISpriteFromMultiObjectAnim(animFile, animName);
+                button.fgImage.sprite = SpriteHelper.GetSpriteForKanim(animFile, animName, target.IconPrefix);
             }
 
-            //FUI_SideScreen.AddSimpleToolTip(gameObject, tooltip, true);
             buttons.Add(gameObject);
         }
 

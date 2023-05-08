@@ -37,6 +37,7 @@ namespace WoodenSetFurniture
             {
                 "art_a", "art_b", "art_c", "art_d", "art_e", "art_f"
             };
+            selectable.IconPrefix = ID;
         }
     }
 }

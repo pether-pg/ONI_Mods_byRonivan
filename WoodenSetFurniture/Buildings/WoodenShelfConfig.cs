@@ -35,8 +35,9 @@ namespace WoodenSetFurniture
             SelectableSign selectable = go.AddOrGet<SelectableSign>();
             selectable.AnimationNames = new List<string>()
             {
-                "art_a", "art_b", "art_c", "art_d", "art_e", "art_f"
+                "off", "art_a", "art_b", "art_c", "art_d", "art_e", "art_f"
             };
+            selectable.IconPrefix = ID;
         }
     }
 }

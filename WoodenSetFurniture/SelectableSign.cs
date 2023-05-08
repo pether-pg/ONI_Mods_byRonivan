@@ -16,6 +16,9 @@ namespace WoodenSetFurniture
         [Serialize]
         public int selectedIndex = 0;
 
+        [Serialize]
+        public string IconPrefix = "";
+
 
         protected override void OnSpawn()
         {
