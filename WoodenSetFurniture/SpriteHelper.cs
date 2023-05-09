@@ -88,5 +88,42 @@ namespace WoodenSetFurniture
             sprite.name = name;
             Assets.Sprites.Add(key, sprite);
         }
+
+        // code from https://github.com/Sgt-Imalas/Sgt_Imalas-Oni-Mods/blob/d0b25100d947dc632b3257f63a248e5827f925ed/BawoonFwiend/ModAssets.cs#L106
+        // use it to get sprite from kanim based on frame index
+        public static Sprite GetSpriteFrom(KAnimFile animFile, KAnim.Build.Symbol symbol)
+        {
+            KAnimFileData data = animFile.GetData();
+            int frame2 = default(KAnim.Anim.FrameElement).frame;
+            KAnim.Build.SymbolFrame symbolFrame = symbol.GetFrame(frame2).symbolFrame;
+            if (symbolFrame == null)
+            {
+                Debug.Log("SymbolFrame [" + frame2 + "] is missing");
+                return Assets.GetSprite("unknown");
+            }
+
+            Texture2D texture = data.build.GetTexture(0);
+            Debug.Assert(texture != null, "Invalid texture on " + animFile.name);
+            float x = symbolFrame.uvMin.x;
+            float x2 = symbolFrame.uvMax.x;
+            float y = symbolFrame.uvMax.y;
+            float y2 = symbolFrame.uvMin.y;
+            int num = (int)((float)texture.width * Mathf.Abs(x2 - x));
+            int num2 = (int)((float)texture.height * Mathf.Abs(y2 - y));
+            float num3 = Mathf.Abs(symbolFrame.bboxMax.x - symbolFrame.bboxMin.x);
+            Rect rect = default(Rect);
+            rect.width = num;
+            rect.height = num2;
+            rect.x = (int)((float)texture.width * x);
+            rect.y = (int)((float)texture.height * y);
+            float pixelsPerUnit = 100f;
+            if (num != 0)
+            {
+                pixelsPerUnit = 100f / (num3 / (float)num);
+            }
+
+            Sprite sprite = Sprite.Create(texture, rect, false ? new Vector2(0.5f, 0.5f) : Vector2.zero, pixelsPerUnit, 0u, SpriteMeshType.FullRect);
+            return sprite;
+        }
     }
 }
