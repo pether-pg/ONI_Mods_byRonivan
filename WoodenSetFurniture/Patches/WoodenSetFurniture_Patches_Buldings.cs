@@ -15,8 +15,8 @@ namespace WoodenSetFurniture
                 Db.Get().Techs.Get("Luxury").unlockedItemIDs.Add(SimpleFireplaceConfig.ID);
                 Db.Get().Techs.Get("Luxury").unlockedItemIDs.Add(CozyChairConfig.ID);
                 Db.Get().Techs.Get("InteriorDecor").unlockedItemIDs.Add(WoodenTableConfig.ID);
+                Db.Get().Techs.Get("InteriorDecor").unlockedItemIDs.Add(WoodenShelfConfig.ID);
                 Db.Get().Techs.Get("FineDining").unlockedItemIDs.Add(KitchenHoodConfig.ID);
-                Db.Get().Techs.Get("FineDining").unlockedItemIDs.Add(WoodenShelfConfig.ID);
             }
         }
 

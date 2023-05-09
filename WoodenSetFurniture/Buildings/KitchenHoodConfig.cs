@@ -13,7 +13,7 @@ namespace WoodenSetFurniture
             float[] materialMass = new float[] { 100f };
             string[] materials = MATERIALS.RAW_METALS;
 
-            BuildingDef def1 = BuildingTemplates.CreateBuildingDef(ID, 3, 2, "kitchen_hood_kanim", 100, 30f, materialMass, materials, 800f, BuildLocationRule.Anywhere, TUNING.DECOR.BONUS.TIER1, TUNING.NOISE_POLLUTION.NONE, 0.2f);
+            BuildingDef def1 = BuildingTemplates.CreateBuildingDef(ID, 4, 2, "kitchen_hood_kanim", 100, 30f, materialMass, materials, 800f, BuildLocationRule.Anywhere, TUNING.DECOR.BONUS.TIER1, TUNING.NOISE_POLLUTION.NONE, 0.2f);
             def1.Floodable = false;
             def1.Overheatable = false;
             def1.AudioCategory = "HollowMetal";
