@@ -15,7 +15,7 @@ namespace WoodenSetFurniture
         private readonly List<GameObject> buttons = new List<GameObject>();
         private SelectableSign target;
 
-        public const string SCREEN_TITLE_KEY = "STRINGS.UI.UISIDESCREENS.SIGN_SIDE_SCREEN.TITLE";
+        public const string SCREEN_TITLE_KEY = "STRINGS.UI.UISIDESCREENS.FURNITURE_SIDE_SCREEN.TITLE";
 
         public override bool IsValidForTarget(GameObject target)
         {

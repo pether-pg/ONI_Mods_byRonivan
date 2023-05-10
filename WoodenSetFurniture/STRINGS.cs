@@ -4,6 +4,11 @@ namespace WoodenSetFurniture
 {
     public class STRINGS
     {
+        public class SIDESCREEN
+        {
+            public static LocString TITLE = "Select Variant";
+        }
+
         public class BUILDINGS
         {
             public class COZYBED

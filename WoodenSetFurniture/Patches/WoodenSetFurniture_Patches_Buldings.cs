@@ -34,6 +34,8 @@ namespace WoodenSetFurniture
                 BasicModUtils.RegisterBuildingStrings(KitchenHoodConfig.ID, STRINGS.BUILDINGS.KITCHENHOOD.NAME, STRINGS.BUILDINGS.KITCHENHOOD.DESC, STRINGS.BUILDINGS.KITCHENHOOD.EFFECT);
                 BasicModUtils.RegisterBuildingStrings(WoodenShelfConfig.ID, STRINGS.BUILDINGS.WOODENSHELF.NAME, STRINGS.BUILDINGS.WOODENSHELF.DESC, STRINGS.BUILDINGS.WOODENSHELF.EFFECT);
 
+                BasicModUtils.MakeSideScreenStrings(SignSideScreen.SCREEN_TITLE_KEY, STRINGS.SIDESCREEN.TITLE);
+
                 ModUtil.AddBuildingToPlanScreen("Furniture", WoodenBedConfig.ID); 
                 ModUtil.AddBuildingToPlanScreen("Furniture", WoodenPedestalConfig.ID);
                 ModUtil.AddBuildingToPlanScreen("Furniture", CozyBedConfig.ID);
