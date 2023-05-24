@@ -4,6 +4,13 @@ namespace WoodenSetFurniture
 {
     public class STRINGS
     {
+        public class TRANSLATION
+        {
+            public class AUTHOR
+            {
+                public static LocString NAME = (LocString)"pether.pg";
+            }
+        }
         public class SIDESCREEN
         {
             public static LocString TITLE = "Select Variant";

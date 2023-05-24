@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.DESC"
+msgid "Duplicants prefer wooden beds to cots and gain more stamina from sleeping in them."
+msgstr ""
+"Kopyalar, karyolada yatmak yerine çekyatları tercih eder, bu yataklarda "
+"uyumaktan daha fazla keyif alır ve ekstaradan dayanıklılık kazanır."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.EFFECT"
+msgid "A cozy bed that somewhat resembles a sofa. This bed grants extra stamina restoration."
+msgstr ""
+"Biraz kanepeye benzeyen rahat bir yatak. Bu yatak ekstra dayanıklılık "
+"kazanımı sağlar."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.NAME"
+msgid "Sofa Bed"
+msgstr "Çekyat"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.DESC"
+msgid "Unique furniture pieces grants extra decoration bonus to the environment."
+msgstr "Eşsiz mobilyalar, çevreye ekstra dekorasyon bonusu sağlar"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.EFFECT"
+msgid "An ergonomic chair that makes a hard day's work bearable."
+msgstr "Zor bir günü bile katlanılabilir hale getiren ergonomik bir sandalye"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.NAME"
+msgid "Cozy Chair"
+msgstr "Tekli Koltuk"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.DESC"
+msgid "Removes all bad smells from the cooking, grilling and baking."
+msgstr "Pişirme, ızgara ve fırınlamadan kaynaklanan tüm kötü kokuları giderir."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.EFFECT"
+msgid "Metal Hood for your cooking place, perfect place for some magnets."
+msgstr ""
+"Mutfağınız için Metal Davlumbaz, bazı mıknatıslar için mükemmel bir yer."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.NAME"
+msgid "Kitchen Hood"
+msgstr "Davlumbaz"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.DESC"
+msgid "A house with no fireplace is a house without a heart."
+msgstr "Şöminesiz bir ev, kalbi olmayan bir evdir."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.EFFECT"
+msgid "A simple stone fireplace. Uses wood lumber to produce heat."
+msgstr "Basit bir taş şömine. Isı üretmek için kereste kullanır."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.NAME"
+msgid "Simple Fireplace"
+msgstr "Şömine"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.DESC"
+msgid "Duplicants prefer wooden beds to cots and gain more stamina from sleeping in them."
+msgstr ""
+"Kopyalar, karyolada yatmak yerine ahşap yatakları tercih eder, bu yataklarda "
+"uyumaktan daha fazla keyif alır ve ekstradan dayanıklılık kazanır."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.EFFECT"
+msgid "Provides a sleeping area for one Duplicant and restores additional Stamina."
+msgstr "Bir kopya için uyku alanı sağlar ve ek Dayanıklılık kazandırır."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.NAME"
+msgid "Wooden Bed"
+msgstr "Ahşap Yatak"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.DESC"
+msgid "The wooden pedestal provides a sophisticated way of thoughtful presentation."
+msgstr "Ahşap kaide, \"düşünceli sunumun sofistike bir yolu\"."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.EFFECT"
+msgid "Displays a single object, doubling its Decor value. Objects with negative decor will gain some positive decor when displayed."
+msgstr ""
+"Tek bir nesneyi Decor değerini iki katına çıkararak görüntüler. Negatif "
+"dekora sahip nesneler görüntülendiğinde bazı olumlu dekorlar kazanacaktır."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.NAME"
+msgid "Wooden Pedestal"
+msgstr "Ahşap Kaide"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.DESC"
+msgid "Allows storing various little objects and souvenirs."
+msgstr ""
+"Çeşitli küçük nesnelerin ve hediyelik eşyaların saklanması için güzel bir "
+"yer."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.EFFECT"
+msgid "Wooden Shelf that can be used in Kitchen or common rooms."
+msgstr "Mutfakta veya ortak kullanım alanlarında kullanılabilen Ahşap Raf."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.NAME"
+msgid "Wooden Shelf"
+msgstr "Ahşap Raf"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.DESC"
+msgid "Unique furniture pieces grants extra decoration bonus to the environment."
+msgstr "Eşsiz mobilyalar, ortama ekstra dekorasyon bonusu sağlar."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.EFFECT"
+msgid "A wooden table. Gives a rustic, yet beautiful sensation to the room."
+msgstr "Ahşap bir masa. Odaya rustik ama güzel bir his verir."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.NAME"
+msgid "Wooden Table"
+msgstr "Ahşap Masa"
+
+#. WoodenSetFurniture.STRINGS.SIDESCREEN.TITLE
+msgctxt "WoodenSetFurniture.STRINGS.SIDESCREEN.TITLE"
+msgid "Select Variant"
+msgstr "Tipini Seçin"
+
+#. WoodenSetFurniture.STRINGS.TRANSLATION.AUTHOR.NAME
+msgctxt "WoodenSetFurniture.STRINGS.TRANSLATION.AUTHOR.NAME"
+msgid "pether.pg"
+msgstr "Elderly"

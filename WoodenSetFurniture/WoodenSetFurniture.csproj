@@ -84,6 +84,7 @@
     <Compile Include="BasicModUtils.cs" />
     <Compile Include="Buildings\WoodenShelfConfig.cs" />
     <Compile Include="Buildings\KitchenHoodConfig.cs" />
+    <Compile Include="Patches\WoodenSetFurniture_Patches_Translation.cs" />
     <Compile Include="SpriteHelper.cs" />
     <Compile Include="STRINGS.cs" />
     <Compile Include="Patches\WoodenSetFurniture_Patches_Buldings.cs" />
