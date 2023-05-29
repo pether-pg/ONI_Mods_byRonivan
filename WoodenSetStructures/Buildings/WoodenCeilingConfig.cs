@@ -24,7 +24,7 @@ namespace WoodenSetStructures
                 amount = 5,
                 radius = 3
             };
-            BuildingDef def = BuildingTemplates.CreateBuildingDef("WoodenCeiling", 1, 1, "wooden_ceiling_kanim", 10, 30f, singleArray1, textArray1, 800f, BuildLocationRule.OnCeiling, decor, NOISE_POLLUTION.NONE, 0.2f);
+            BuildingDef def = BuildingTemplates.CreateBuildingDef(ID, 1, 1, "wooden_ceiling_kanim", 10, 30f, singleArray1, textArray1, 800f, BuildLocationRule.OnCeiling, decor, NOISE_POLLUTION.NONE, 0.2f);
             def.DefaultAnimState = "S_U";
             def.Floodable = false;
             def.Overheatable = false;

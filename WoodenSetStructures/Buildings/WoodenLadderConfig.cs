@@ -22,7 +22,7 @@ namespace WoodenSetStructures
             float[] singleArray1 = new float[] { 25, 25f };
             string[] textArray1 = new string[] { "BuildableRaw", "BuildingWood" };
             EffectorValues nONE = NOISE_POLLUTION.NONE;
-            BuildingDef def = BuildingTemplates.CreateBuildingDef("WoodenLadder", 1, 1, "ladder_wooden_kanim", 10, 5f, singleArray1, textArray1, 1600f, BuildLocationRule.Anywhere, BUILDINGS.DECOR.BONUS.TIER1, nONE, 0.2f);
+            BuildingDef def = BuildingTemplates.CreateBuildingDef(ID, 1, 1, "ladder_wooden_kanim", 10, 5f, singleArray1, textArray1, 1600f, BuildLocationRule.Anywhere, BUILDINGS.DECOR.BONUS.TIER1, nONE, 0.2f);
             BuildingTemplates.CreateLadderDef(def);
             def.Floodable = false;
             def.Overheatable = false;

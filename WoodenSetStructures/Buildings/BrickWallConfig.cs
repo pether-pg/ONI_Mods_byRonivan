@@ -28,7 +28,7 @@ namespace WoodenSetStructures
             float[] singleArray1 = new float[] { 100f, 50f };
             string[] textArray1 = new string[] { "BuildableRaw", "Metal" };
             EffectorValues nONE = NOISE_POLLUTION.NONE;
-            BuildingDef def1 = BuildingTemplates.CreateBuildingDef("BrickWall", 1, 1, "brick_wall_kanim", 100, 15f, singleArray1, textArray1, 1600f, BuildLocationRule.Tile, BUILDINGS.DECOR.BONUS.TIER0, nONE, 0.2f);
+            BuildingDef def1 = BuildingTemplates.CreateBuildingDef(ID, 1, 1, "brick_wall_kanim", 100, 15f, singleArray1, textArray1, 1600f, BuildLocationRule.Tile, BUILDINGS.DECOR.BONUS.TIER0, nONE, 0.2f);
             def1.Entombable = false;
             def1.Floodable = false;
             def1.Overheatable = false;

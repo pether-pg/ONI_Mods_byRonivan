@@ -23,7 +23,7 @@ namespace WoodenSetStructures
             float[] singleArray1 = new float[] { 100f, 50f };
             string[] textArray1 = new string[] { "BuildableRaw", "BuildingWood" };
 
-            BuildingDef def1 = BuildingTemplates.CreateBuildingDef("WoodenCornerArch", 1, 1, "wooden_corner_arch_kanim", 10, 30f, singleArray1, textArray1, 800f, BuildLocationRule.InCorner, decor, NOISE_POLLUTION.NONE, 0.2f);
+            BuildingDef def1 = BuildingTemplates.CreateBuildingDef(ID, 1, 1, "wooden_corner_arch_kanim", 10, 30f, singleArray1, textArray1, 800f, BuildLocationRule.InCorner, decor, NOISE_POLLUTION.NONE, 0.2f);
             def1.DefaultAnimState = "corner";
             def1.Floodable = false;
             def1.Overheatable = false;

@@ -81,19 +81,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BrickWallConfig.cs" />
+    <Compile Include="BasicModUtils.cs" />
+    <Compile Include="Buildings\BrickWallConfig.cs" />
     <Compile Include="ModInfo.cs" />
+    <Compile Include="Patches\WoodenSetStructures_Patches_Translation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WoodenCeiling.cs" />
-    <Compile Include="WoodenCornerArch.cs" />
-    <Compile Include="WoodenDoor.cs" />
-    <Compile Include="WoodenDryWall.cs" />
-    <Compile Include="WoodenDryWall_B.cs" />
-    <Compile Include="WoodenGasTile.cs" />
-    <Compile Include="WoodenLadder.cs" />
-    <Compile Include="WoodenMeshTile.cs" />
-    <Compile Include="Buildings_Patches.cs" />
-    <Compile Include="WoodenTile.cs" />
+    <Compile Include="STRINGS.cs" />
+    <Compile Include="Buildings\WoodenCeilingConfig.cs" />
+    <Compile Include="Buildings\WoodenCornerArchConfig.cs" />
+    <Compile Include="Buildings\WoodenDoorConfig.cs" />
+    <Compile Include="Buildings\WoodenDryWallConfig.cs" />
+    <Compile Include="Buildings\WoodenDryWall_BConfig.cs" />
+    <Compile Include="Buildings\WoodenGasTileConfig.cs" />
+    <Compile Include="Buildings\WoodenLadderConfig.cs" />
+    <Compile Include="Buildings\WoodenMeshTileConfig.cs" />
+    <Compile Include="Patches\WoodenSetStructures_Patches_Buildings.cs" />
+    <Compile Include="Buildings\WoodenTileConfig.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Version.txt" />

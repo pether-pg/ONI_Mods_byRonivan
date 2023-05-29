@@ -5,7 +5,7 @@ using System.IO;
 
 namespace WoodenSetStructures
 {
-    public class GasPermeableMembraneConfig : IBuildingConfig
+    public class WoodenGasTileConfig : IBuildingConfig
     {
         public const string ID = "WoodenGasTile";
 
@@ -47,7 +47,7 @@ namespace WoodenSetStructures
             string[] textArray1 = new string[] { "BuildableRaw", "BuildingWood" };
 
             EffectorValues nONE = NOISE_POLLUTION.NONE;
-            BuildingDef def = BuildingTemplates.CreateBuildingDef("WoodenGasTile", 1, 1, "floor_Wooden_gasperm_kanim", 100, 30f, singleArray1, textArray1, 1600f, BuildLocationRule.Tile, BUILDINGS.DECOR.BONUS.TIER0, nONE, 0.2f);
+            BuildingDef def = BuildingTemplates.CreateBuildingDef(ID, 1, 1, "floor_Wooden_gasperm_kanim", 100, 30f, singleArray1, textArray1, 1600f, BuildLocationRule.Tile, BUILDINGS.DECOR.BONUS.TIER0, nONE, 0.2f);
             BuildingTemplates.CreateFoundationTileDef(def);
             def.Floodable = false;
             def.Entombable = false;

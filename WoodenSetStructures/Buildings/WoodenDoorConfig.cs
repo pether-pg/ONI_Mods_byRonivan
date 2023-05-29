@@ -1,7 +1,6 @@
 ﻿using STRINGS;
 using System;
 using System.Collections.Generic;
-using TUNING;
 using UnityEngine;
 
 namespace WoodenSetStructures
@@ -15,7 +14,7 @@ namespace WoodenSetStructures
             float[] singleArray1 = new float[] { 150, 50f };
             string[] textArray1 = new string[] { "BuildableRaw", "BuildingWood" };
             EffectorValues nONE = TUNING.NOISE_POLLUTION.NONE;
-            BuildingDef def1 = BuildingTemplates.CreateBuildingDef("WoodenDoor", 1, 2, "door_wooden_kanim", 30, 10f, singleArray1, textArray1, 1600f, BuildLocationRule.Tile, TUNING.BUILDINGS.DECOR.BONUS.TIER1, nONE, 1f);
+            BuildingDef def1 = BuildingTemplates.CreateBuildingDef(ID, 1, 2, "door_wooden_kanim", 30, 10f, singleArray1, textArray1, 1600f, BuildLocationRule.Tile, TUNING.BUILDINGS.DECOR.BONUS.TIER1, nONE, 1f);
             def1.Entombable = true;
             def1.Floodable = false;
             def1.IsFoundation = false;
@@ -31,7 +30,7 @@ namespace WoodenSetStructures
         public static List<LogicPorts.Port> CreateSingleInputPortList(CellOffset offset)
         {
             List<LogicPorts.Port> list1 = new List<LogicPorts.Port>();
-            list1.Add(LogicPorts.Port.InputPort(Door.OPEN_CLOSE_PORT_ID, offset, (string)STRINGS.BUILDINGS.PREFABS.DOOR.LOGIC_OPEN, (string)STRINGS.BUILDINGS.PREFABS.DOOR.LOGIC_OPEN_ACTIVE, (string)STRINGS.BUILDINGS.PREFABS.DOOR.LOGIC_OPEN_INACTIVE, false, false));
+            list1.Add(LogicPorts.Port.InputPort(Door.OPEN_CLOSE_PORT_ID, offset, (string)BUILDINGS.PREFABS.DOOR.LOGIC_OPEN, (string)BUILDINGS.PREFABS.DOOR.LOGIC_OPEN_ACTIVE, (string)BUILDINGS.PREFABS.DOOR.LOGIC_OPEN_INACTIVE, false, false));
             return list1;
         }
 
