@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.DESC"
+msgid "A pretty dry wall made with fine bricks."
+msgstr "Tuğlalarla yapılmış oldukça güzel bir duvar."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.EFFECT"
+msgid "Prevents gas and liquid loss in space. Builds an insulating backwall behind buildings."
+msgstr ""
+"Uzayda gaz ve sıvı kaybını önler. Binaların arkasında yalıtımlı bir arka "
+"duvar oluşturur."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.NAME"
+msgid "Brick Wall"
+msgstr "Tuğla Duvar"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.DESC"
+msgid "Wood work used to decorate the ceilings of rooms. Increases Decor, contributing to Morale."
+msgstr ""
+"Odaların tavanlarını süslemek için kullanılan ahşap pervaz. Dekoru Arttırır, "
+"Moral'e Katkıda Bulunur."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.EFFECT"
+msgid "This ceiling is a beautiful masonry and wood work, but serves only as a decorative purpose."
+msgstr ""
+"Bu tepe pervazı ahşap işçiliğiyle yapılmıştır ve ancak dekoratif bir amaç "
+"olarak hizmet edebilir."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.NAME"
+msgid "Wooden Ceiling"
+msgstr "Ahşap Tepe Pervazı"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.DESC"
+msgid "A wooden arch used to decorate the ceiling corners of rooms. Increases Decor, contributing to Morale."
+msgstr ""
+"Odaların tavan köşelerini süslemek için kullanılan ahşap köşe pervazı. "
+"Dekoru Arttırır, Moral'e Katkıda Bulunur."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.EFFECT"
+msgid "This corner ceiling arch is beautiful masonry and wood work, but serves only as a decorative purpose."
+msgstr ""
+"Bu ahşap köşe pervazı, ahşap işliğiyle yapılmıştır ve ancak dekoratif bir "
+"amaç olarak hizmet edebilir."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.NAME"
+msgid "Wooden Corner Arch"
+msgstr "Ahşap Köşe Pervazı"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.DESC"
+msgid "A pretty wooden door that encloses areas without blocking Liquid or Gas flow. Sets Duplicant Access Permissions for area restriction."
+msgstr ""
+"Sıvı veya Gaz akışını engellemeden alanları çevreleyen hoş bir ahşap kapı. "
+"Alan kısıtlaması için Kopya Erişim İzinleri ayarlanabilir."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.EFFECT"
+msgid "Wild Critters cannot pass through doors. Door controls can be used to prevent Duplicants from entering restricted areas."
+msgstr ""
+"Yaratıklar kapılardan geçemez. Kopyaların kısıtlı alanlara girmesini önlemek "
+"için kapı kontrolleri kullanılabilir."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.NAME"
+msgid "Wooden Door"
+msgstr "Tahta Kapı"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.DESC"
+msgid "A dry wall covered with a pretty wooden panel."
+msgstr "Ahşap panelle kaplı güzel bir duvar."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.EFFECT"
+msgid "Prevents gas and liquid loss in space. Builds an insulating backwall behind buildings."
+msgstr ""
+"Uzayda gaz ve sıvı kaybını önler. Binaların arkasında yalıtımlı bir arka "
+"duvar oluşturur."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.NAME"
+msgid "Wooden Panel Wall"
+msgstr "Ahşap Panel Duvar"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.DESC"
+msgid "A dry wall covered with a pretty wooden panel in Parquet design."
+msgstr "Parke tasarımında hoş bir ahşap panelle kaplı güzel bir duvar."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.EFFECT"
+msgid "Prevents gas and liquid loss in space. Builds an insulating backwall behind buildings."
+msgstr ""
+"Uzayda gaz ve sıvı kaybını önler. Binaların arkasında yalıtımlı bir arka "
+"duvar oluşturur."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.NAME"
+msgid "Parquet Drywall"
+msgstr "Parke Duvar"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.DESC"
+msgid "An impermeable wooden tile, used to build walls and floors of rooms. \n\nBlocks Liquid flow without obstructing Gas."
+msgstr ""
+"Odaların duvarlarını ve zeminlerini inşa etmek için kullanılan bir ahşap "
+"karo.\n"
+"\n"
+"Gazı engellemeden Sıvı akışını engeller."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.EFFECT"
+msgid "Building with wooden airflow tile promotes better gas circulation within a colony."
+msgstr ""
+"Hava akışına izin veren odalar arasında daha iyi hava sirkülasyonu sağlamak "
+"için kullanılan Ahşap Hava Akışı Karosu."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.NAME"
+msgid "Wooden Airflow Tile"
+msgstr "Ahşap Hava Akışı Karosu"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.DESC"
+msgid "A pretty ladder made of wood."
+msgstr "Ahşaptan yapılmış güzel bir merdiven."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.EFFECT"
+msgid "Increase duplicants climbing speed."
+msgstr "Kopyaların tırmanma hızını artırır."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.NAME"
+msgid "Wooden Ladder"
+msgstr "Ahşap Merdiven"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.DESC"
+msgid "A wooden tile filled with minute holes, used to build walls and floors of rooms.  \n\nDoes not obstruct Liquid or Gas flow. "
+msgstr ""
+"Odaların duvarlarını ve zeminlerini inşa etmek için kullanılan, küçük "
+"deliklerle dolu ahşap bir karo.\n"
+"\n"
+"Sıvı veya Gaz akışını engellemez."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.EFFECT"
+msgid "Wooden mesh tile can be used to make Duplicant pathways in areas where liquid flows."
+msgstr ""
+"Ahşap Örgü Karo, sıvının aktığı alanlarda kopyalara yol yapmak için "
+"kullanılabilir."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.NAME"
+msgid "Wooden Mesh Tile"
+msgstr "Ahşap Örgü Karo"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.DESC"
+msgid "Used to build the walls and floors of rooms. Increases Decor, contributing to Morale. "
+msgstr ""
+"Odaların duvarlarını ve zeminlerini inşa etmek için kullanılır. Dekoru "
+"Arttırır, Moral'e Katkıda Bulunur."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.EFFECT"
+msgid "Simple wooden tiles."
+msgstr "Basit bir Ahşap Karo"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.NAME"
+msgid "Wooden Tile"
+msgstr "Ahşap Karo"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.XXX.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.XXX.DESC"
+msgid "xxx"
+msgstr "xxx"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.XXX.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.XXX.EFFECT"
+msgid "xxx"
+msgstr "xxx"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.XXX.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.XXX.NAME"
+msgid "xxx"
+msgstr "xxx"
+
+#. WoodenSetStructures.STRINGS.TRANSLATION.AUTHOR.NAME
+msgctxt "WoodenSetStructures.STRINGS.TRANSLATION.AUTHOR.NAME"
+msgid "pether.pg"
+msgstr "Elderly"

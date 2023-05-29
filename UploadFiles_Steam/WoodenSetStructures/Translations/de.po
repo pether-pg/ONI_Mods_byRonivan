@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.DESC"
+msgid "A pretty dry wall made with fine bricks."
+msgstr "Eine hübsche Trockenwand aus edlen Ziegeln."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.EFFECT"
+msgid ""
+"Prevents gas and liquid loss in space. Builds an insulating backwall behind "
+"buildings."
+msgstr ""
+"Prevents <link=\"ELEMENTSGAS\">Gas</link> and "
+"<link=\"ELEMENTSLIQUID\">Liquid</link> loss in space.\n"
+"Builds an insulating backwall behind buildings."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.BRICKWALL.NAME"
+msgid "Brick Wall"
+msgstr "Ziegelwand"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.DESC"
+msgid ""
+"Wood work used to decorate the ceilings of rooms. Increases Decor, "
+"contributing to Morale."
+msgstr ""
+"Holzarbeiten, genutzt zur Dekorierung von Zimmerdecken.\n"
+"Verbessert den <link=\"DECOR\">Dekorationswert</link> und trägt damit zu "
+"<link=\"MORALE\">Moral</link> bei."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.EFFECT"
+msgid ""
+"This ceiling is a beautiful masonry and wood work, but serves only as a "
+"decorative purpose."
+msgstr ""
+"Diese Holzdecke ist das Produkt exzellenter Schreiner- und Maurerarbeiten, "
+"fungiert jedoch nur als Dekoration."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCEILING.NAME"
+msgid "Wooden Ceiling"
+msgstr "Hölzerne Zimmerdecke"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.DESC"
+msgid ""
+"A wooden arch used to decorate the ceiling corners of rooms. Increases "
+"Decor, contributing to Morale."
+msgstr ""
+"Ein hölzerner Bogen, der zur Dekoration der Raumecken verwendet wird.\n"
+"Verbessert den <link=\"DECOR\">Dekorationswert</link> und trägt damit zu "
+"<link=\"MORALE\">Moral</link> bei."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.EFFECT"
+msgid ""
+"This corner ceiling arch is beautiful masonry and wood work, but serves only "
+"as a decorative purpose."
+msgstr ""
+"Dieser Rundbogen ist das Produkt exzellenter Schreiner- und Maurerarbeiten, "
+"fungiert jedoch nur als Dekoration."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENCORNERARCH.NAME"
+msgid "Wooden Corner Arch"
+msgstr "Hözerner Rundbogen"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.DESC"
+msgid ""
+"A pretty wooden door that encloses areas without blocking Liquid or Gas "
+"flow. Sets Duplicant Access Permissions for area restriction."
+msgstr ""
+"Eine hübsche Holztür, die Bereiche abschließt, ohne den Flüssigkeits- oder "
+"Gasfluss zu blockieren."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.EFFECT"
+msgid ""
+"Wild Critters cannot pass through doors. Door controls can be used to "
+"prevent Duplicants from entering restricted areas."
+msgstr ""
+"Grenzt ein Gebiet ab ohne <link=\"ELEMENTSGAS\">Gas</link> oder "
+"<link=\"ELEMENTSLIQUID\">Flüssigkeiten</link> abzuhalten.\n"
+"\n"
+"Wilde <link=\"CRITTERS\">Kreaturen</link> können die Tür nicht passieren."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDOOR.NAME"
+msgid "Wooden Door"
+msgstr "Holztür"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.DESC"
+msgid "A dry wall covered with a pretty wooden panel."
+msgstr "Eine Trockenwand mit einer hübschen Holzverkleidung."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.EFFECT"
+msgid ""
+"Prevents gas and liquid loss in space. Builds an insulating backwall behind "
+"buildings."
+msgstr ""
+"Prevents <link=\"ELEMENTSGAS\">Gas</link> and "
+"<link=\"ELEMENTSLIQUID\">Liquid</link> loss in space.\n"
+"Builds an insulating backwall behind buildings."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL.NAME"
+msgid "Wooden Panel Wall"
+msgstr "Hölzernes Wandpaneel"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.DESC"
+msgid "A dry wall covered with a pretty wooden panel in Parquet design."
+msgstr ""
+"Eine Trockenwand, die mit einer hübschen Holzverkleidung im Parkettdesign "
+"verkleidet ist."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.EFFECT"
+msgid ""
+"Prevents gas and liquid loss in space. Builds an insulating backwall behind "
+"buildings."
+msgstr ""
+"Prevents <link=\"ELEMENTSGAS\">Gas</link> and "
+"<link=\"ELEMENTSLIQUID\">Liquid</link> loss in space.\n"
+"Builds an insulating backwall behind buildings."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENDRYWALL_B.NAME"
+msgid "Parquet Drywall"
+msgstr "Parkett-Trockenwand"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.DESC"
+msgid ""
+"An impermeable wooden tile, used to build walls and floors of rooms. \n"
+"\n"
+"Blocks Liquid flow without obstructing Gas."
+msgstr ""
+"Wird verwendet, um hölzerne Wände und Böden für Räume zu bauen.\n"
+"Lässt keine <link=\"ELEMENTSLIQUID\">Flüssigkeiten</link> durch, aber dafür "
+"<link=\"ELEMENTSGAS\">Gas</link> durch."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.EFFECT"
+msgid ""
+"Building with wooden airflow tile promotes better gas circulation within a "
+"colony."
+msgstr ""
+"Das Bauen mit luftdurchlässigen Holzziegeln fördert eine Gaszirkulation "
+"innerhalb einer Kolonie."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENGASTILE.NAME"
+msgid "Wooden Airflow Tile"
+msgstr "Luftdurchlässiger Holzziegel"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.DESC"
+msgid "A pretty ladder made of wood."
+msgstr "Eine hübsche Leiter aus Holz."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.EFFECT"
+msgid "Increase duplicants climbing speed."
+msgstr "Erhöht die Klettergeschwindigkeit des Duplikanten."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENLADDER.NAME"
+msgid "Wooden Ladder"
+msgstr "Holzleiter"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.DESC"
+msgid ""
+"A wooden tile filled with minute holes, used to build walls and floors of "
+"rooms.  \n"
+"\n"
+"Does not obstruct Liquid or Gas flow. "
+msgstr ""
+"Ein hölzerner Ziegel voller kleiner Löcher.\n"
+"Wird verwendet, um Wände und Böden für Räume zu bauen.\n"
+"Lässt <link=\"ELEMENTSLIQUID\">Flüssigkeiten</link> und "
+"<link=\"ELEMENTSGAS\">Gase</link> durch. "
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.EFFECT"
+msgid ""
+"Wooden mesh tile can be used to make Duplicant pathways in areas where "
+"liquid flows."
+msgstr ""
+"Hölzerne Gitterziegel können verwendet werden, um Duplikanten Wege in "
+"Bereichen, in denen Flüssigkeiten fließen sollen, zu bauen."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENMESHTILE.NAME"
+msgid "Wooden Mesh Tile"
+msgstr "Hölzerner Gitterziegel"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.DESC"
+msgid ""
+"Used to build the walls and floors of rooms. Increases Decor, contributing "
+"to Morale. "
+msgstr ""
+"Wird verwendet, um die Wände und Decken von Räumen zu bauen.\n"
+"Verbessert den <link=\"DECOR\">Dekorationswert</link> und trägt damit zu "
+"<link=\"MORALE\">Moral</link> bei. "
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.EFFECT"
+msgid "Simple wooden tiles."
+msgstr "Normaler Holzziegel."
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.WOODENTILE.NAME"
+msgid "Wooden Tile"
+msgstr "Holzziegel"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.XXX.DESC
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.XXX.DESC"
+msgid "xxx"
+msgstr "xxx"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.XXX.EFFECT
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.XXX.EFFECT"
+msgid "xxx"
+msgstr "xxx"
+
+#. WoodenSetStructures.STRINGS.BUILDINGS.XXX.NAME
+msgctxt "WoodenSetStructures.STRINGS.BUILDINGS.XXX.NAME"
+msgid "xxx"
+msgstr "xxx"
+
+#. WoodenSetStructures.STRINGS.TRANSLATION.AUTHOR.NAME
+msgctxt "WoodenSetStructures.STRINGS.TRANSLATION.AUTHOR.NAME"
+msgid "pether.pg"
+msgstr "Sgt_Imalas"
