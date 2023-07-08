@@ -18,7 +18,6 @@
 
             ComplexFabricatorWorkable workable = go.AddOrGet<ComplexFabricatorWorkable>();
             workable.overrideAnims = new KAnimFile[] { Assets.GetAnim("anim_interacts_metalrefinery_kanim") };
-            workable.AnimOffset = new Vector3(1f, 0f, 0f);
             go.AddOrGet<LoopingSounds>();
 
             ComplexFabricator complexFabricator = go.AddOrGet<ComplexFabricator>();
