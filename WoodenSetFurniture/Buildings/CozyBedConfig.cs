@@ -5,7 +5,7 @@ namespace WoodenSetFurniture
 {
     public class CozyBedConfig : IBuildingConfig
     {
-        public static string ID = "CozyBed";
+        public static string ID = "WoodenSetFurnitureReuploaded_CozyBed";
 
         public override void ConfigureBuildingTemplate(GameObject go, Tag prefab_tag)
         {

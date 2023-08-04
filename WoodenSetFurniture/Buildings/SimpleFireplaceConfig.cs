@@ -5,7 +5,7 @@ namespace WoodenSetFurniture
 {
     public class SimpleFireplaceConfig : IBuildingConfig
     {
-        public const string ID = "SimpleFireplace";
+        public const string ID = "WoodenSetFurnitureReuploaded_SimpleFireplace";
 
         public override BuildingDef CreateBuildingDef()
         {

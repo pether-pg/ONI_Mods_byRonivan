@@ -5,7 +5,7 @@ namespace WoodenSetFurniture
 {
     public class WoodenBedConfig : IBuildingConfig
     {
-        public static string ID = "WoodenBed";
+        public static string ID = "WoodenSetFurnitureReuploaded_WoodenBed";
 
         public override BuildingDef CreateBuildingDef()
         {

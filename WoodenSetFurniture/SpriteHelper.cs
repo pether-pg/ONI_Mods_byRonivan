@@ -90,8 +90,8 @@ namespace WoodenSetFurniture
         }
 
         // code from https://github.com/Sgt-Imalas/Sgt_Imalas-Oni-Mods/blob/d0b25100d947dc632b3257f63a248e5827f925ed/BawoonFwiend/ModAssets.cs#L106
-        // use it to get sprite from kanim based on frame index
-        public static Sprite GetSpriteFrom(KAnimFile animFile, KAnim.Build.Symbol symbol)
+        // use it to get sprite from kanim based on frame index        
+        /*public static Sprite GetSpriteFrom(KAnimFile animFile, KAnim.Build.Symbol symbol)
         {
             KAnimFileData data = animFile.GetData();
             int frame2 = default(KAnim.Anim.FrameElement).frame;
@@ -124,6 +124,6 @@ namespace WoodenSetFurniture
 
             Sprite sprite = Sprite.Create(texture, rect, false ? new Vector2(0.5f, 0.5f) : Vector2.zero, pixelsPerUnit, 0u, SpriteMeshType.FullRect);
             return sprite;
-        }
+        }*/
     }
 }

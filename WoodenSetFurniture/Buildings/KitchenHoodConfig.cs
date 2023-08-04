@@ -6,7 +6,7 @@ namespace WoodenSetFurniture
 {
     class KitchenHoodConfig : IBuildingConfig
     {
-        public const string ID = "KitchenHood";
+        public const string ID = "WoodenSetFurnitureReuploaded_KitchenHood";
 
         public override BuildingDef CreateBuildingDef()
         {

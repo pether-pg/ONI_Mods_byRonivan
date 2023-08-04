@@ -5,7 +5,7 @@ namespace WoodenSetFurniture
 {
     public class WoodenTableConfig : IBuildingConfig
     {
-        public const string ID = "WoodenTable";
+        public const string ID = "WoodenSetFurnitureReuploaded_WoodenTable";
 
         public override void ConfigureBuildingTemplate(GameObject go, Tag prefab_tag)
         {

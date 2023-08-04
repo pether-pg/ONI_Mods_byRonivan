@@ -6,7 +6,7 @@ namespace WoodenSetFurniture
 {
     public class WoodenPedestalConfig : IBuildingConfig
     {
-        public const string ID = "WoodenPedestal";
+        public const string ID = "WoodenSetFurnitureReuploaded_WoodenPedestal";
 
         public override BuildingDef CreateBuildingDef()
         {

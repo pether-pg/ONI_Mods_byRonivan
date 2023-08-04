@@ -5,7 +5,7 @@ namespace WoodenSetFurniture
 {
     public class CozyChairConfig : IBuildingConfig
     {
-        public const string ID = "CozyChair";
+        public const string ID = "WoodenSetFurnitureReuploaded_CozyChair";
 
         public override BuildingDef CreateBuildingDef()
         {
