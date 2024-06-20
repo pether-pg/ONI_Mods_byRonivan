@@ -44,6 +44,9 @@
     <Reference Include="FMODUnity">
       <HintPath>..\lib\FMODUnity.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -101,7 +104,10 @@
     <Compile Include="Buildings\WoodenTableConfig.cs" />
     <Compile Include="Patches\WoodenSetFurniture_Patches_DetailScreen.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>IF exist "C:\Users\pawel\Documents\Klei\OxygenNotIncluded\mods\Dev\$(TargetName)" ( echo Mod Dir exists ) ELSE  ( mkdir "C:\Users\pawel\Documents\Klei\OxygenNotIncluded\mods\Dev\$(TargetName)" &amp;&amp; echo Mod Dir created)
