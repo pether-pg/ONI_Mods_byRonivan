@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.DESC"
+msgid ""
+"Duplicants prefer wooden beds to cots and gain more stamina from sleeping in "
+"them."
+msgstr ""
+"Duplikanten bevorzugen Holzbetten gegenüber Feldbetten und wachen "
+"ausgeruhter auf, nachdem sie darin geschlafen haben."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.EFFECT"
+msgid ""
+"A cozy bed that somewhat resembles a sofa. This bed grants extra stamina "
+"restoration."
+msgstr ""
+"Ein gemütliches Bett das ein wenig wie ein Sofa aussieht. Schlaf zusätzliche "
+"Ausdauer wieder her."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYBED.NAME"
+msgid "Sofa Bed"
+msgstr "Schlafsofa"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.DESC"
+msgid ""
+"Unique furniture pieces grants extra decoration bonus to the environment."
+msgstr "Individuelle Möbelstücke verleihen der Umgebung ein wenig extra Dekor."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.EFFECT"
+msgid "An ergonomic chair that makes a hard day's work bearable."
+msgstr "Ein ergonomischer Stuhl, der die Mühen des Alltags ertragbar macht."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.COZYCHAIR.NAME"
+msgid "Cozy Chair"
+msgstr "Gemütlicher Stuhl"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.DESC"
+msgid "Removes all bad smells from the cooking, grilling and baking."
+msgstr "Entfernt alle schlechten Gerüche beim Kochen, Grillen und Backen."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.EFFECT"
+msgid "Metal Hood for your cooking place, perfect place for some magnets."
+msgstr "Eine Dunstabzugshaube aus Metall, perfekt für ein paar Magnete."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.KITCHENHOOD.NAME"
+msgid "Kitchen Hood"
+msgstr "Dunstabzugshaube"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.DESC"
+msgid "A house with no fireplace is a house without a heart."
+msgstr "Ein Haus ohne Kamin ist ein Haus ohne Herz."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.EFFECT"
+msgid "A simple stone fireplace. Uses wood lumber to produce heat."
+msgstr "Ein einfacher Kamin. Verbraucht Holz um Wärme zu erzeugen."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.SIMPLEFIREPLACE.NAME"
+msgid "Simple Fireplace"
+msgstr "Einfacher Kamin"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.DESC"
+msgid ""
+"Duplicants prefer wooden beds to cots and gain more stamina from sleeping in "
+"them."
+msgstr ""
+"Duplikanten bevorzugen Holzbetten gegenüber Feldbetten und wachen "
+"ausgeruhter auf, nachdem sie darin geschlafen haben."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.EFFECT"
+msgid ""
+"Provides a sleeping area for one Duplicant and restores additional Stamina."
+msgstr ""
+"Bietet einen Schlafplatz für einen Duplikanten und stellt zusätzliche "
+"Ausdauer wieder her."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENBED.NAME"
+msgid "Wooden Bed"
+msgstr "Holzbett"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.DESC"
+msgid ""
+"The wooden pedestal provides a sophisticated way of thoughtful presentation."
+msgstr ""
+"Das hölzerne Podest bietet eine elegante Möglichkeit der wohlüberlegten "
+"Präsentation."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.EFFECT"
+msgid ""
+"Displays a single object, doubling its Decor value. Objects with negative "
+"decor will gain some positive decor when displayed."
+msgstr ""
+"Präsentiert ein einzelnes Objekt und verdoppelt seinen "
+"<link=\"DECOR\">Dekor</link>-Wert.\n"
+"\n"
+"Objekte mit negativem Dekor erhalten positive Dekorwerte, wenn sie "
+"präsentiert werden."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENPEDESTAL.NAME"
+msgid "Wooden Pedestal"
+msgstr "Hölzernes Podest"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.DESC"
+msgid "Allows storing various little objects and souvenirs."
+msgstr ""
+"Ermöglicht die Aufbewahrung verschiedener kleiner Gegenstände und Souvenirs."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.EFFECT"
+msgid "Wooden Shelf that can be used in Kitchen or common rooms."
+msgstr ""
+"Ein hölzernes Regal welches in Küchen oder Wohnzimmern genutzt werden kann."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENSHELF.NAME"
+msgid "Wooden Shelf"
+msgstr "Holzregal"
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.DESC
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.DESC"
+msgid ""
+"Unique furniture pieces grants extra decoration bonus to the environment."
+msgstr "Individuelle Möbelstücke verleihen der Umgebung ein wenig extra Dekor."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.EFFECT
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.EFFECT"
+msgid "A wooden table. Gives a rustic, yet beautiful sensation to the room."
+msgstr ""
+"Ein hölzerner Tisch. Verleiht dem Raum ein rustikales, aber schönes Gefühl."
+
+#. WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.NAME
+msgctxt "WoodenSetFurniture.STRINGS.BUILDINGS.WOODENTABLE.NAME"
+msgid "Wooden Table"
+msgstr "Holztisch"
+
+#. WoodenSetFurniture.STRINGS.SIDESCREEN.TITLE
+msgctxt "WoodenSetFurniture.STRINGS.SIDESCREEN.TITLE"
+msgid "Select Variant"
+msgstr "Variante auswählen"
+
+#. WoodenSetFurniture.STRINGS.TRANSLATION.AUTHOR.NAME
+msgctxt "WoodenSetFurniture.STRINGS.TRANSLATION.AUTHOR.NAME"
+msgid "pether.pg"
+msgstr "Sgt_Imalas"
